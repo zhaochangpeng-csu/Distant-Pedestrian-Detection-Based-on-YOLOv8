@@ -1,0 +1,220 @@
+[
+  {
+    "id": 1,
+    "language": "zh",
+    "citation": "罗艳, 张重阳, 田永鸿, 等. 深度学习行人检测方法综述[J]. 中国图象图形学报, 2022, 27(7): 2094-2111. DOI: 10.11834/jig.200831.",
+    "doi": "10.11834/jig.200831",
+    "title": "深度学习行人检测方法综述",
+    "source": "https://www.cjig.cn/zh/article/doi/10.11834/jig.200831/",
+    "verified": "journal_page",
+    "crossref_title": "An overview of deep learning based pedestrian detection algorithms"
+  },
+  {
+    "id": 2,
+    "language": "zh",
+    "citation": "曹家乐, 李亚利, 孙汉卿, 等. 基于深度学习的视觉目标检测技术综述[J]. 中国图象图形学报, 2022, 27(6): 1697-1722. DOI: 10.11834/jig.220069.",
+    "doi": "10.11834/jig.220069",
+    "title": "基于深度学习的视觉目标检测技术综述",
+    "source": "https://www.cjig.cn/zh/article/doi/10.11834/jig.220069/",
+    "verified": "journal_page",
+    "crossref_title": "A survey on deep learning based visual object detection"
+  },
+  {
+    "id": 3,
+    "language": "zh",
+    "citation": "董刚, 谢维成, 黄小龙, 等. 深度学习小目标检测算法综述[J]. 计算机工程与应用, 2023, 59(11): 16-27. DOI: 10.3778/j.issn.1002-8331.2211-0377.",
+    "doi": "10.3778/j.issn.1002-8331.2211-0377",
+    "title": "深度学习小目标检测算法综述",
+    "source": "https://teacher.xhu.edu.cn/dqwm/xwc/list.psp",
+    "verified": "author_institution_page_and_journal_reference"
+  },
+  {
+    "id": 4,
+    "language": "zh",
+    "citation": "冷佳旭, 莫梦竟成, 周应华, 等. 无人机视角下的目标检测研究进展[J]. 中国图象图形学报, 2023, 28(9): 2563-2586. DOI: 10.11834/jig.220836.",
+    "doi": "10.11834/jig.220836",
+    "title": "无人机视角下的目标检测研究进展",
+    "source": "https://www.cjig.cn/zh/article/doi/10.11834/jig.220836/",
+    "verified": "journal_page",
+    "crossref_title": "Recent advances in drone-view object detection"
+  },
+  {
+    "id": 5,
+    "language": "zh",
+    "citation": "刘小波, 肖肖, 王凌, 等. 基于无锚框的目标检测方法及其在复杂场景下的应用进展[J]. 自动化学报, 2023, 49(7): 1369-1392. DOI: 10.16383/j.aas.c220115.",
+    "doi": "10.16383/j.aas.c220115",
+    "title": "基于无锚框的目标检测方法及其在复杂场景下的应用进展",
+    "source": "https://www.aas.net.cn/article/doi/10.16383/j.aas.c220115",
+    "verified": "journal_page"
+  },
+  {
+    "id": 6,
+    "language": "zh",
+    "citation": "邱锡鹏. 神经网络与深度学习[M]. 北京: 机械工业出版社, 2020.",
+    "title": "神经网络与深度学习",
+    "source": "https://nndl.github.io/",
+    "secondary_source": "https://opac.hnu.edu.cn/opac/book/2000437686",
+    "verified": "author_book_page_and_library_catalog"
+  },
+  {
+    "id": 7,
+    "language": "en",
+    "citation": "DALAL N, TRIGGS B. Histograms of oriented gradients for human detection[C]//2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE, 2005: 886-893.",
+    "doi": "10.1109/CVPR.2005.177",
+    "title": "Histograms of oriented gradients for human detection"
+  },
+  {
+    "id": 8,
+    "language": "en",
+    "citation": "GIRSHICK R, DONAHUE J, DARRELL T, et al. Rich feature hierarchies for accurate object detection and semantic segmentation[C]//2014 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2014: 580-587.",
+    "doi": "10.1109/CVPR.2014.81",
+    "title": "Rich feature hierarchies for accurate object detection and semantic segmentation"
+  },
+  {
+    "id": 9,
+    "language": "en",
+    "citation": "REN S, HE K, GIRSHICK R, et al. Faster R-CNN: towards real-time object detection with region proposal networks[C]//Advances in Neural Information Processing Systems 28. 2015: 91-99.",
+    "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+    "source": "https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html",
+    "verified": "primary_paper_page"
+  },
+  {
+    "id": 10,
+    "language": "en",
+    "citation": "REDMON J, DIVVALA S, GIRSHICK R, et al. You only look once: unified, real-time object detection[C]//2016 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2016: 779-788.",
+    "doi": "10.1109/CVPR.2016.91",
+    "title": "You only look once: unified, real-time object detection"
+  },
+  {
+    "id": 11,
+    "language": "en",
+    "citation": "REDMON J, FARHADI A. YOLO9000: better, faster, stronger[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2017: 6517-6525.",
+    "doi": "10.1109/CVPR.2017.690",
+    "title": "YOLO9000: Better, Faster, Stronger"
+  },
+  {
+    "id": 12,
+    "language": "en",
+    "citation": "REDMON J, FARHADI A. YOLOv3: an incremental improvement[EB/OL]. (2018-04-08)[2026-10-14]. https://arxiv.org/abs/1804.02767.",
+    "title": "YOLOv3: An Incremental Improvement",
+    "source": "https://arxiv.org/abs/1804.02767",
+    "verified": "primary_paper_page"
+  },
+  {
+    "id": 13,
+    "language": "en",
+    "citation": "BOCHKOVSKIY A, WANG C Y, LIAO H Y M. YOLOv4: optimal speed and accuracy of object detection[EB/OL]. (2020-04-23)[2026-10-14]. https://arxiv.org/abs/2004.10934.",
+    "title": "YOLOv4: Optimal Speed and Accuracy of Object Detection",
+    "source": "https://arxiv.org/abs/2004.10934",
+    "verified": "primary_paper_page"
+  },
+  {
+    "id": 14,
+    "language": "en",
+    "citation": "WANG C Y, BOCHKOVSKIY A, LIAO H Y M. YOLOv7: trainable bag-of-freebies sets new state-of-the-art for real-time object detectors[C]//2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2023: 7464-7475.",
+    "doi": "10.1109/CVPR52729.2023.00721",
+    "title": "YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors"
+  },
+  {
+    "id": 15,
+    "language": "en",
+    "citation": "ULTRALYTICS. Explore Ultralytics YOLOv8[EB/OL]. [2026-10-14]. https://docs.ultralytics.com/models/yolov8/.",
+    "title": "Explore Ultralytics YOLOv8",
+    "source": "https://docs.ultralytics.com/models/yolov8/",
+    "verified": "official_documentation"
+  },
+  {
+    "id": 16,
+    "language": "en",
+    "citation": "HE K, ZHANG X, REN S, et al. Deep residual learning for image recognition[C]//2016 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2016: 770-778.",
+    "doi": "10.1109/CVPR.2016.90",
+    "title": "Deep Residual Learning for Image Recognition"
+  },
+  {
+    "id": 17,
+    "language": "en",
+    "citation": "LIN T Y, DOLLAR P, GIRSHICK R, et al. Feature pyramid networks for object detection[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2017: 936-944.",
+    "doi": "10.1109/CVPR.2017.106",
+    "title": "Feature Pyramid Networks for Object Detection"
+  },
+  {
+    "id": 18,
+    "language": "en",
+    "citation": "LIU S, QI L, QIN H, et al. Path aggregation network for instance segmentation[C]//2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2018: 8759-8768.",
+    "doi": "10.1109/CVPR.2018.00913",
+    "title": "Path Aggregation Network for Instance Segmentation"
+  },
+  {
+    "id": 19,
+    "language": "en",
+    "citation": "HU J, SHEN L, SUN G. Squeeze-and-excitation networks[C]//2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2018: 7132-7141.",
+    "doi": "10.1109/CVPR.2018.00745",
+    "title": "Squeeze-and-Excitation Networks"
+  },
+  {
+    "id": 20,
+    "language": "en",
+    "citation": "WOO S, PARK J, LEE J Y, et al. CBAM: convolutional block attention module[C]//Computer Vision — ECCV 2018. Cham: Springer, 2018: 3-19.",
+    "doi": "10.1007/978-3-030-01234-2_1",
+    "title": "CBAM: Convolutional Block Attention Module"
+  },
+  {
+    "id": 21,
+    "language": "en",
+    "citation": "WANG Q, WU B, ZHU P, et al. ECA-Net: efficient channel attention for deep convolutional neural networks[C]//2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2020: 11531-11539.",
+    "doi": "10.1109/CVPR42600.2020.01155",
+    "title": "ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks"
+  },
+  {
+    "id": 22,
+    "language": "en",
+    "citation": "LIN T Y, GOYAL P, GIRSHICK R, et al. Focal loss for dense object detection[C]//2017 IEEE International Conference on Computer Vision. IEEE, 2017: 2999-3007.",
+    "doi": "10.1109/ICCV.2017.324",
+    "title": "Focal Loss for Dense Object Detection"
+  },
+  {
+    "id": 23,
+    "language": "en",
+    "citation": "LI X, WANG W, WU L, et al. Generalized focal loss: learning qualified and distributed bounding boxes for dense object detection[C]//Advances in Neural Information Processing Systems 33. 2020: 21002-21012.",
+    "title": "Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection",
+    "source": "https://arxiv.org/abs/2006.04388",
+    "verified": "primary_paper_page"
+  },
+  {
+    "id": 24,
+    "language": "en",
+    "citation": "ZHENG Z, WANG P, LIU W, et al. Distance-IoU loss: faster and better learning for bounding box regression[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(7): 12993-13000.",
+    "doi": "10.1609/aaai.v34i07.6999",
+    "title": "Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression"
+  },
+  {
+    "id": 25,
+    "language": "en",
+    "citation": "ZHU P, WEN L, DU D, et al. Detection and tracking meet drones challenge[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, 44(11): 7380-7399.",
+    "doi": "10.1109/TPAMI.2021.3119563",
+    "title": "Detection and Tracking Meet Drones Challenge"
+  },
+  {
+    "id": 26,
+    "language": "en",
+    "citation": "LIN T Y, MAIRE M, BELONGIE S, et al. Microsoft COCO: common objects in context[C]//Computer Vision — ECCV 2014. Cham: Springer, 2014: 740-755.",
+    "doi": "10.1007/978-3-319-10602-1_48",
+    "title": "Microsoft COCO: Common Objects in Context"
+  },
+  {
+    "id": 27,
+    "language": "en",
+    "citation": "LOSHCHILOV I, HUTTER F. Decoupled weight decay regularization[C]//International Conference on Learning Representations. 2019.",
+    "title": "Decoupled Weight Decay Regularization",
+    "source": "https://github.com/loshchil/AdamW-and-SGDW",
+    "verified": "author_repository_and_iclr2019",
+    "secondary_source": "https://iclr.cc/Downloads/2019"
+  },
+  {
+    "id": 28,
+    "language": "en",
+    "citation": "FENG C, ZHONG Y, GAO Y, et al. TOOD: task-aligned one-stage object detection[C]//2021 IEEE/CVF International Conference on Computer Vision. IEEE, 2021: 3490-3499.",
+    "doi": "10.1109/ICCV48922.2021.00349",
+    "title": "TOOD: Task-aligned One-stage Object Detection"
+  }
+]

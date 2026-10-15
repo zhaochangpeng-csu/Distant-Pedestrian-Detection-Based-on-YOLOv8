@@ -1,0 +1,2008 @@
+[
+  {
+    "id": 1,
+    "doi": "10.11834/jig.200831",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "Aerospace Information Research Institute, Chinese Academy of Sciences",
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.11834/jig.200831",
+      "type": "journal-article",
+      "page": "2094-2111",
+      "title": [
+        "An overview of deep learning based pedestrian detection algorithms"
+      ],
+      "volume": "27",
+      "author": [
+        {
+          "given": "Luo",
+          "family": "Yan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "上海交通大学电子信息与电气工程学院, 上海 200240 School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Zhang",
+          "family": "Chongyang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Tian",
+          "family": "Yonghong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Guo",
+          "family": "Jie",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Sun",
+          "family": "Jun",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "北京大学信息科学技术学院, 北京 100871 School of Electronics Engineering and Computer Science, Peking University, Beijing 100871, China",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "上海交通大学网络空间安全学院, 上海 200240 School of Cyber Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Image and Graphics"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.11834/jig.200831",
+      "published": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "doi": "10.11834/jig.220069",
+    "status": "journal_page",
+    "error": "HTTP Error 429: Too Many Requests",
+    "source": "https://www.cjig.cn/zh/article/doi/10.11834/jig.220069/"
+  },
+  {
+    "id": 3,
+    "doi": "10.3778/j.issn.1002-8331.2211-0377",
+    "status": "author_institution_page_and_journal_reference",
+    "error": "HTTP Error 404: Not Found",
+    "source": "https://teacher.xhu.edu.cn/dqwm/xwc/list.psp"
+  },
+  {
+    "id": 4,
+    "doi": "10.11834/jig.220836",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "Aerospace Information Research Institute, Chinese Academy of Sciences",
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "DOI": "10.11834/jig.220836",
+      "type": "journal-article",
+      "page": "2563-2586",
+      "title": [
+        "Recent advances in drone-view object detection"
+      ],
+      "volume": "28",
+      "author": [
+        {
+          "given": "Jiaxu",
+          "family": "Leng",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "name": "重庆邮电大学计算机科学与技术学院，重庆 400065 College of Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing 400065, China",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mengjingcheng",
+          "family": "Mo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yinghua",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yongming",
+          "family": "Ye",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chenqiang",
+          "family": "Gao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xinbo",
+          "family": "Gao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "name": "重庆邮电大学通信与信息工程学院，重庆 400065 School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing 400065, China",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Image and Graphics"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.11834/jig.220836",
+      "published": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "doi": "10.16383/j.aas.c220115",
+    "status": "journal_page",
+    "error": "HTTP Error 404: Not Found",
+    "source": "https://www.aas.net.cn/article/doi/10.16383/j.aas.c220115"
+  },
+  {
+    "id": 6,
+    "status": "author_book_page_and_library_catalog",
+    "source": "https://nndl.github.io/"
+  },
+  {
+    "id": 7,
+    "doi": "10.1109/CVPR.2005.177",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "DOI": "10.1109/cvpr.2005.177",
+      "type": "proceedings-article",
+      "page": "886-893",
+      "title": [
+        "Histograms of Oriented Gradients for Human Detection"
+      ],
+      "volume": "1",
+      "author": [
+        {
+          "given": "N.",
+          "family": "Dalal",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Triggs",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            null
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2005.177"
+    }
+  },
+  {
+    "id": 8,
+    "doi": "10.1109/CVPR.2014.81",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr.2014.81",
+      "type": "proceedings-article",
+      "page": "580-587",
+      "title": [
+        "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"
+      ],
+      "author": [
+        {
+          "given": "Ross",
+          "family": "Girshick",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jeff",
+          "family": "Donahue",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Trevor",
+          "family": "Darrell",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jitendra",
+          "family": "Malik",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2014 IEEE Conference on Computer Vision and Pattern Recognition"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2014.81",
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "status": "primary_paper_page",
+    "source": "https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html"
+  },
+  {
+    "id": 10,
+    "doi": "10.1109/CVPR.2016.91",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr.2016.91",
+      "type": "proceedings-article",
+      "page": "779-788",
+      "title": [
+        "You Only Look Once: Unified, Real-Time Object Detection"
+      ],
+      "author": [
+        {
+          "given": "Joseph",
+          "family": "Redmon",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Santosh",
+          "family": "Divvala",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ross",
+          "family": "Girshick",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ali",
+          "family": "Farhadi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2016.91",
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 11,
+    "doi": "10.1109/CVPR.2017.690",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr.2017.690",
+      "type": "proceedings-article",
+      "page": "6517-6525",
+      "title": [
+        "YOLO9000: Better, Faster, Stronger"
+      ],
+      "author": [
+        {
+          "given": "Joseph",
+          "family": "Redmon",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ali",
+          "family": "Farhadi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2017.690",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 12,
+    "status": "primary_paper_page",
+    "source": "https://arxiv.org/abs/1804.02767"
+  },
+  {
+    "id": 13,
+    "status": "primary_paper_page",
+    "source": "https://arxiv.org/abs/2004.10934"
+  },
+  {
+    "id": 14,
+    "doi": "10.1109/CVPR52729.2023.00721",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr52729.2023.00721",
+      "type": "proceedings-article",
+      "page": "7464-7475",
+      "title": [
+        "YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors"
+      ],
+      "author": [
+        {
+          "given": "Chien-Yao",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Information Science, Academia Sinica,Taiwan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexey",
+          "family": "Bochkovskiy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hong-Yuan Mark",
+          "family": "Liao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Information Science, Academia Sinica,Taiwan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr52729.2023.00721",
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 15,
+    "status": "official_documentation",
+    "source": "https://docs.ultralytics.com/models/yolov8/"
+  },
+  {
+    "id": 16,
+    "doi": "10.1109/CVPR.2016.90",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr.2016.90",
+      "type": "proceedings-article",
+      "page": "770-778",
+      "title": [
+        "Deep Residual Learning for Image Recognition"
+      ],
+      "author": [
+        {
+          "given": "Kaiming",
+          "family": "He",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiangyu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shaoqing",
+          "family": "Ren",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jian",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2016.90",
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 17,
+    "doi": "10.1109/CVPR.2017.106",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr.2017.106",
+      "type": "proceedings-article",
+      "page": "936-944",
+      "title": [
+        "Feature Pyramid Networks for Object Detection"
+      ],
+      "author": [
+        {
+          "given": "Tsung-Yi",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Piotr",
+          "family": "Dollar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ross",
+          "family": "Girshick",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kaiming",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bharath",
+          "family": "Hariharan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Serge",
+          "family": "Belongie",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2017.106",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 18,
+    "doi": "10.1109/CVPR.2018.00913",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr.2018.00913",
+      "type": "proceedings-article",
+      "page": "8759-8768",
+      "title": [
+        "Path Aggregation Network for Instance Segmentation"
+      ],
+      "author": [
+        {
+          "given": "Shu",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lu",
+          "family": "Qi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Haifang",
+          "family": "Qin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jianping",
+          "family": "Shi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiaya",
+          "family": "Jia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2018.00913",
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 19,
+    "doi": "10.1109/CVPR.2018.00745",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr.2018.00745",
+      "type": "proceedings-article",
+      "page": "7132-7141",
+      "title": [
+        "Squeeze-and-Excitation Networks"
+      ],
+      "author": [
+        {
+          "given": "Jie",
+          "family": "Hu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li",
+          "family": "Shen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gang",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr.2018.00745",
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 20,
+    "doi": "10.1007/978-3-030-01234-2_1",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "Springer International Publishing",
+      "published-print": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "DOI": "10.1007/978-3-030-01234-2_1",
+      "type": "book-chapter",
+      "page": "3-19",
+      "title": [
+        "CBAM: Convolutional Block Attention Module"
+      ],
+      "author": [
+        {
+          "given": "Sanghyun",
+          "family": "Woo",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jongchan",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joon-Young",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "In So",
+          "family": "Kweon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            6
+          ]
+        ]
+      },
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "Computer Vision – ECCV 2018"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-030-01234-2_1",
+      "published": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 21,
+    "doi": "10.1109/CVPR42600.2020.01155",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/cvpr42600.2020.01155",
+      "type": "proceedings-article",
+      "page": "11531-11539",
+      "title": [
+        "ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks"
+      ],
+      "author": [
+        {
+          "given": "Qilong",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Banggu",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pengfei",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peihua",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wangmeng",
+          "family": "Zuo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qinghua",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/cvpr42600.2020.01155",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 22,
+    "doi": "10.1109/ICCV.2017.324",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1109/iccv.2017.324",
+      "type": "proceedings-article",
+      "page": "2999-3007",
+      "title": [
+        "Focal Loss for Dense Object Detection"
+      ],
+      "author": [
+        {
+          "given": "Tsung-Yi",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Priya",
+          "family": "Goyal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ross",
+          "family": "Girshick",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kaiming",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Piotr",
+          "family": "Dollar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2017 IEEE International Conference on Computer Vision (ICCV)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            10
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/iccv.2017.324",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            10
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 23,
+    "status": "primary_paper_page",
+    "source": "https://arxiv.org/abs/2006.04388"
+  },
+  {
+    "id": 24,
+    "doi": "10.1609/aaai.v34i07.6999",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+      "issue": "07",
+      "DOI": "10.1609/aaai.v34i07.6999",
+      "type": "journal-article",
+      "page": "12993-13000",
+      "title": [
+        "Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression"
+      ],
+      "volume": "34",
+      "author": [
+        {
+          "given": "Zhaohui",
+          "family": "Zheng",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ping",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jinze",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rongguang",
+          "family": "Ye",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dongwei",
+          "family": "Ren",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            3
+          ]
+        ]
+      },
+      "container-title": [
+        "Proceedings of the AAAI Conference on Artificial Intelligence"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            3
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1609/aaai.v34i07.6999",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            3
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 25,
+    "doi": "10.1109/TPAMI.2021.3119563",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "issue": "11",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1109/tpami.2021.3119563",
+      "type": "journal-article",
+      "page": "7380-7399",
+      "title": [
+        "Detection and Tracking Meet Drones Challenge"
+      ],
+      "volume": "44",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4310-9140",
+          "authenticated-orcid": false,
+          "given": "Pengfei",
+          "family": "Zhu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "College of Intelligence and Computing, Tianjin University, Tianjin, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5525-492X",
+          "authenticated-orcid": false,
+          "given": "Longyin",
+          "family": "Wen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "JD Finance America Corporation, Mountain View, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9404-524X",
+          "authenticated-orcid": false,
+          "given": "Dawei",
+          "family": "Du",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Computer Science Department, University at Albany, State University of New York, Albany, NY, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiao",
+          "family": "Bian",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "GE Global Research, Niskayuna, NY, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3308-7873",
+          "authenticated-orcid": false,
+          "given": "Heng",
+          "family": "Fan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and Engineering, University of North Texas, Denton, TX, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7765-8095",
+          "authenticated-orcid": false,
+          "given": "Qinghua",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Intelligence and Computing, Tianjin University, Tianjin, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4094-8413",
+          "authenticated-orcid": false,
+          "given": "Haibin",
+          "family": "Ling",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, Stony Brook University, Stony Brook, NY, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/tpami.2021.3119563",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 26,
+    "doi": "10.1007/978-3-319-10602-1_48",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "Springer International Publishing",
+      "published-print": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "DOI": "10.1007/978-3-319-10602-1_48",
+      "type": "book-chapter",
+      "page": "740-755",
+      "title": [
+        "Microsoft COCO: Common Objects in Context"
+      ],
+      "author": [
+        {
+          "given": "Tsung-Yi",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael",
+          "family": "Maire",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Serge",
+          "family": "Belongie",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "James",
+          "family": "Hays",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pietro",
+          "family": "Perona",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Deva",
+          "family": "Ramanan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Piotr",
+          "family": "Dollár",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. Lawrence",
+          "family": "Zitnick",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "Computer Vision – ECCV 2014"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-319-10602-1_48",
+      "published": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": 27,
+    "status": "author_repository_and_iclr2019",
+    "source": "https://github.com/loshchil/AdamW-and-SGDW"
+  },
+  {
+    "id": 28,
+    "doi": "10.1109/ICCV48922.2021.00349",
+    "status": "title_verified",
+    "similarity": 1.0,
+    "metadata": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1109/iccv48922.2021.00349",
+      "type": "proceedings-article",
+      "page": "3490-3499",
+      "title": [
+        "TOOD: Task-aligned One-stage Object Detection"
+      ],
+      "author": [
+        {
+          "given": "Chengjian",
+          "family": "Feng",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Intellifusion Inc"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yujie",
+          "family": "Zhong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Meituan Inc"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Gao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "ByteDance Inc"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Matthew R.",
+          "family": "Scott",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Malong LLC"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Weilin",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Alibaba Group"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2021 IEEE/CVF International Conference on Computer Vision (ICCV)"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            10
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/iccv48922.2021.00349",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            10
+          ]
+        ]
+      }
+    }
+  }
+]

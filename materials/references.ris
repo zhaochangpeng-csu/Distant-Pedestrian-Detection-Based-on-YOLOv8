@@ -1,0 +1,420 @@
+TY  - JOUR
+ID  - 1
+TI  - 深度学习行人检测方法综述
+UR  - https://www.cjig.cn/zh/article/doi/10.11834/jig.200831/
+AU  - Yan, Luo
+AU  - , 
+AU  - Chongyang, Zhang
+AU  - Yonghong, Tian
+AU  - Jie, Guo
+AU  - Jun, Sun
+AU  - , 
+AU  - , 
+PY  - 2022
+T2  - Journal of Image and Graphics
+VL  - 27
+IS  - 7
+SP  - 2094
+EP  - 2111
+DO  - 10.11834/jig.200831
+N1  - 罗艳, 张重阳, 田永鸿, 等. 深度学习行人检测方法综述[J]. 中国图象图形学报, 2022, 27(7): 2094-2111. DOI: 10.11834/jig.200831.
+ER  - 
+
+TY  - JOUR
+ID  - 2
+TI  - 基于深度学习的视觉目标检测技术综述
+UR  - https://www.cjig.cn/zh/article/doi/10.11834/jig.220069/
+AU  - 曹家乐
+AU  - 李亚利
+AU  - 孙汉卿
+PY  - 2022
+DO  - 10.11834/jig.220069
+N1  - 曹家乐, 李亚利, 孙汉卿, 等. 基于深度学习的视觉目标检测技术综述[J]. 中国图象图形学报, 2022, 27(6): 1697-1722. DOI: 10.11834/jig.220069.
+ER  - 
+
+TY  - JOUR
+ID  - 3
+TI  - 深度学习小目标检测算法综述
+UR  - https://teacher.xhu.edu.cn/dqwm/xwc/list.psp
+AU  - 董刚
+AU  - 谢维成
+AU  - 黄小龙
+PY  - 2023
+DO  - 10.3778/j.issn.1002-8331.2211-0377
+N1  - 董刚, 谢维成, 黄小龙, 等. 深度学习小目标检测算法综述[J]. 计算机工程与应用, 2023, 59(11): 16-27. DOI: 10.3778/j.issn.1002-8331.2211-0377.
+ER  - 
+
+TY  - JOUR
+ID  - 4
+TI  - 无人机视角下的目标检测研究进展
+UR  - https://www.cjig.cn/zh/article/doi/10.11834/jig.220836/
+AU  - Leng, Jiaxu
+AU  - , 
+AU  - Mo, Mengjingcheng
+AU  - Zhou, Yinghua
+AU  - Ye, Yongming
+AU  - Gao, Chenqiang
+AU  - Gao, Xinbo
+AU  - , 
+PY  - 2023
+T2  - Journal of Image and Graphics
+VL  - 28
+IS  - 9
+SP  - 2563
+EP  - 2586
+DO  - 10.11834/jig.220836
+N1  - 冷佳旭, 莫梦竟成, 周应华, 等. 无人机视角下的目标检测研究进展[J]. 中国图象图形学报, 2023, 28(9): 2563-2586. DOI: 10.11834/jig.220836.
+ER  - 
+
+TY  - JOUR
+ID  - 5
+TI  - 基于无锚框的目标检测方法及其在复杂场景下的应用进展
+UR  - https://www.aas.net.cn/article/doi/10.16383/j.aas.c220115
+AU  - 刘小波
+AU  - 肖肖
+AU  - 王凌
+PY  - 2023
+DO  - 10.16383/j.aas.c220115
+N1  - 刘小波, 肖肖, 王凌, 等. 基于无锚框的目标检测方法及其在复杂场景下的应用进展[J]. 自动化学报, 2023, 49(7): 1369-1392. DOI: 10.16383/j.aas.c220115.
+ER  - 
+
+TY  - BOOK
+ID  - 6
+TI  - 神经网络与深度学习
+UR  - https://nndl.github.io/
+AU  - 邱锡鹏
+PY  - 2020
+N1  - 邱锡鹏. 神经网络与深度学习[M]. 北京: 机械工业出版社, 2020.
+ER  - 
+
+TY  - CONF
+ID  - 7
+TI  - Histograms of oriented gradients for human detection
+UR  - https://doi.org/10.1109/CVPR.2005.177
+AU  - Dalal, N.
+AU  - Triggs, B.
+PY  - 2005
+T2  - 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)
+VL  - 1
+SP  - 886
+EP  - 893
+DO  - 10.1109/CVPR.2005.177
+N1  - DALAL N, TRIGGS B. Histograms of oriented gradients for human detection[C]//2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE, 2005: 886-893. DOI: 10.1109/CVPR.2005.177.
+ER  - 
+
+TY  - CONF
+ID  - 8
+TI  - Rich feature hierarchies for accurate object detection and semantic segmentation
+UR  - https://doi.org/10.1109/CVPR.2014.81
+AU  - Girshick, Ross
+AU  - Donahue, Jeff
+AU  - Darrell, Trevor
+AU  - Malik, Jitendra
+PY  - 2014
+T2  - 2014 IEEE Conference on Computer Vision and Pattern Recognition
+SP  - 580
+EP  - 587
+DO  - 10.1109/CVPR.2014.81
+N1  - GIRSHICK R, DONAHUE J, DARRELL T, et al. Rich feature hierarchies for accurate object detection and semantic segmentation[C]//2014 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2014: 580-587. DOI: 10.1109/CVPR.2014.81.
+ER  - 
+
+TY  - CONF
+ID  - 9
+TI  - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+UR  - https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html
+AU  - REN S
+AU  - HE K
+AU  - GIRSHICK R
+PY  - 2015
+N1  - REN S, HE K, GIRSHICK R, et al. Faster R-CNN: towards real-time object detection with region proposal networks[C]//Advances in Neural Information Processing Systems 28. 2015: 91-99.
+ER  - 
+
+TY  - CONF
+ID  - 10
+TI  - You only look once: unified, real-time object detection
+UR  - https://doi.org/10.1109/CVPR.2016.91
+AU  - Redmon, Joseph
+AU  - Divvala, Santosh
+AU  - Girshick, Ross
+AU  - Farhadi, Ali
+PY  - 2016
+T2  - 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 779
+EP  - 788
+DO  - 10.1109/CVPR.2016.91
+N1  - REDMON J, DIVVALA S, GIRSHICK R, et al. You only look once: unified, real-time object detection[C]//2016 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2016: 779-788. DOI: 10.1109/CVPR.2016.91.
+ER  - 
+
+TY  - CONF
+ID  - 11
+TI  - YOLO9000: Better, Faster, Stronger
+UR  - https://doi.org/10.1109/CVPR.2017.690
+AU  - Redmon, Joseph
+AU  - Farhadi, Ali
+PY  - 2017
+T2  - 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 6517
+EP  - 6525
+DO  - 10.1109/CVPR.2017.690
+N1  - REDMON J, FARHADI A. YOLO9000: better, faster, stronger[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2017: 6517-6525. DOI: 10.1109/CVPR.2017.690.
+ER  - 
+
+TY  - ELEC
+ID  - 12
+TI  - YOLOv3: An Incremental Improvement
+UR  - https://arxiv.org/abs/1804.02767
+AU  - REDMON J
+AU  - FARHADI A
+PY  - 2018
+N1  - REDMON J, FARHADI A. YOLOv3: an incremental improvement[EB/OL]. (2018-04-08)[2026-10-14]. https://arxiv.org/abs/1804.02767.
+ER  - 
+
+TY  - ELEC
+ID  - 13
+TI  - YOLOv4: Optimal Speed and Accuracy of Object Detection
+UR  - https://arxiv.org/abs/2004.10934
+AU  - BOCHKOVSKIY A
+AU  - WANG C Y
+AU  - LIAO H Y M
+PY  - 2020
+N1  - BOCHKOVSKIY A, WANG C Y, LIAO H Y M. YOLOv4: optimal speed and accuracy of object detection[EB/OL]. (2020-04-23)[2026-10-14]. https://arxiv.org/abs/2004.10934.
+ER  - 
+
+TY  - CONF
+ID  - 14
+TI  - YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors
+UR  - https://doi.org/10.1109/CVPR52729.2023.00721
+AU  - Wang, Chien-Yao
+AU  - Bochkovskiy, Alexey
+AU  - Liao, Hong-Yuan Mark
+PY  - 2023
+T2  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 7464
+EP  - 7475
+DO  - 10.1109/CVPR52729.2023.00721
+N1  - WANG C Y, BOCHKOVSKIY A, LIAO H Y M. YOLOv7: trainable bag-of-freebies sets new state-of-the-art for real-time object detectors[C]//2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2023: 7464-7475. DOI: 10.1109/CVPR52729.2023.00721.
+ER  - 
+
+TY  - ELEC
+ID  - 15
+TI  - Explore Ultralytics YOLOv8
+UR  - https://docs.ultralytics.com/models/yolov8/
+AU  - ULTRALYTICS
+N1  - ULTRALYTICS. Explore Ultralytics YOLOv8[EB/OL]. [2026-10-14]. https://docs.ultralytics.com/models/yolov8/.
+ER  - 
+
+TY  - CONF
+ID  - 16
+TI  - Deep Residual Learning for Image Recognition
+UR  - https://doi.org/10.1109/CVPR.2016.90
+AU  - He, Kaiming
+AU  - Zhang, Xiangyu
+AU  - Ren, Shaoqing
+AU  - Sun, Jian
+PY  - 2016
+T2  - 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 770
+EP  - 778
+DO  - 10.1109/CVPR.2016.90
+N1  - HE K, ZHANG X, REN S, et al. Deep residual learning for image recognition[C]//2016 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2016: 770-778. DOI: 10.1109/CVPR.2016.90.
+ER  - 
+
+TY  - CONF
+ID  - 17
+TI  - Feature Pyramid Networks for Object Detection
+UR  - https://doi.org/10.1109/CVPR.2017.106
+AU  - Lin, Tsung-Yi
+AU  - Dollar, Piotr
+AU  - Girshick, Ross
+AU  - He, Kaiming
+AU  - Hariharan, Bharath
+AU  - Belongie, Serge
+PY  - 2017
+T2  - 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 936
+EP  - 944
+DO  - 10.1109/CVPR.2017.106
+N1  - LIN T Y, DOLLAR P, GIRSHICK R, et al. Feature pyramid networks for object detection[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2017: 936-944. DOI: 10.1109/CVPR.2017.106.
+ER  - 
+
+TY  - CONF
+ID  - 18
+TI  - Path Aggregation Network for Instance Segmentation
+UR  - https://doi.org/10.1109/CVPR.2018.00913
+AU  - Liu, Shu
+AU  - Qi, Lu
+AU  - Qin, Haifang
+AU  - Shi, Jianping
+AU  - Jia, Jiaya
+PY  - 2018
+T2  - 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+SP  - 8759
+EP  - 8768
+DO  - 10.1109/CVPR.2018.00913
+N1  - LIU S, QI L, QIN H, et al. Path aggregation network for instance segmentation[C]//2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2018: 8759-8768. DOI: 10.1109/CVPR.2018.00913.
+ER  - 
+
+TY  - CONF
+ID  - 19
+TI  - Squeeze-and-Excitation Networks
+UR  - https://doi.org/10.1109/CVPR.2018.00745
+AU  - Hu, Jie
+AU  - Shen, Li
+AU  - Sun, Gang
+PY  - 2018
+T2  - 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+SP  - 7132
+EP  - 7141
+DO  - 10.1109/CVPR.2018.00745
+N1  - HU J, SHEN L, SUN G. Squeeze-and-excitation networks[C]//2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2018: 7132-7141. DOI: 10.1109/CVPR.2018.00745.
+ER  - 
+
+TY  - CONF
+ID  - 20
+TI  - CBAM: Convolutional Block Attention Module
+UR  - https://doi.org/10.1007/978-3-030-01234-2_1
+AU  - Woo, Sanghyun
+AU  - Park, Jongchan
+AU  - Lee, Joon-Young
+AU  - Kweon, In So
+PY  - 2018
+T2  - Lecture Notes in Computer Science
+SP  - 3
+EP  - 19
+DO  - 10.1007/978-3-030-01234-2_1
+N1  - WOO S, PARK J, LEE J Y, et al. CBAM: convolutional block attention module[C]//Computer Vision — ECCV 2018. Cham: Springer, 2018: 3-19. DOI: 10.1007/978-3-030-01234-2_1.
+ER  - 
+
+TY  - CONF
+ID  - 21
+TI  - ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks
+UR  - https://doi.org/10.1109/CVPR42600.2020.01155
+AU  - Wang, Qilong
+AU  - Wu, Banggu
+AU  - Zhu, Pengfei
+AU  - Li, Peihua
+AU  - Zuo, Wangmeng
+AU  - Hu, Qinghua
+PY  - 2020
+T2  - 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 11531
+EP  - 11539
+DO  - 10.1109/CVPR42600.2020.01155
+N1  - WANG Q, WU B, ZHU P, et al. ECA-Net: efficient channel attention for deep convolutional neural networks[C]//2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition. IEEE, 2020: 11531-11539. DOI: 10.1109/CVPR42600.2020.01155.
+ER  - 
+
+TY  - CONF
+ID  - 22
+TI  - Focal Loss for Dense Object Detection
+UR  - https://doi.org/10.1109/ICCV.2017.324
+AU  - Lin, Tsung-Yi
+AU  - Goyal, Priya
+AU  - Girshick, Ross
+AU  - He, Kaiming
+AU  - Dollar, Piotr
+PY  - 2017
+T2  - 2017 IEEE International Conference on Computer Vision (ICCV)
+SP  - 2999
+EP  - 3007
+DO  - 10.1109/ICCV.2017.324
+N1  - LIN T Y, GOYAL P, GIRSHICK R, et al. Focal loss for dense object detection[C]//2017 IEEE International Conference on Computer Vision. IEEE, 2017: 2999-3007. DOI: 10.1109/ICCV.2017.324.
+ER  - 
+
+TY  - CONF
+ID  - 23
+TI  - Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection
+UR  - https://arxiv.org/abs/2006.04388
+AU  - LI X
+AU  - WANG W
+AU  - WU L
+PY  - 2020
+N1  - LI X, WANG W, WU L, et al. Generalized focal loss: learning qualified and distributed bounding boxes for dense object detection[C]//Advances in Neural Information Processing Systems 33. 2020: 21002-21012.
+ER  - 
+
+TY  - CONF
+ID  - 24
+TI  - Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
+UR  - https://doi.org/10.1609/aaai.v34i07.6999
+AU  - Zheng, Zhaohui
+AU  - Wang, Ping
+AU  - Liu, Wei
+AU  - Li, Jinze
+AU  - Ye, Rongguang
+AU  - Ren, Dongwei
+PY  - 2020
+T2  - Proceedings of the AAAI Conference on Artificial Intelligence
+VL  - 34
+IS  - 07
+SP  - 12993
+EP  - 13000
+DO  - 10.1609/aaai.v34i07.6999
+N1  - ZHENG Z, WANG P, LIU W, et al. Distance-IoU loss: faster and better learning for bounding box regression[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(7): 12993-13000. DOI: 10.1609/aaai.v34i07.6999.
+ER  - 
+
+TY  - JOUR
+ID  - 25
+TI  - Detection and Tracking Meet Drones Challenge
+UR  - https://doi.org/10.1109/TPAMI.2021.3119563
+AU  - Zhu, Pengfei
+AU  - Wen, Longyin
+AU  - Du, Dawei
+AU  - Bian, Xiao
+AU  - Fan, Heng
+AU  - Hu, Qinghua
+AU  - Ling, Haibin
+PY  - 2022
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+VL  - 44
+IS  - 11
+SP  - 7380
+EP  - 7399
+DO  - 10.1109/TPAMI.2021.3119563
+N1  - ZHU P, WEN L, DU D, et al. Detection and tracking meet drones challenge[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, 44(11): 7380-7399. DOI: 10.1109/TPAMI.2021.3119563.
+ER  - 
+
+TY  - CONF
+ID  - 26
+TI  - Microsoft COCO: Common Objects in Context
+UR  - https://doi.org/10.1007/978-3-319-10602-1_48
+AU  - Lin, Tsung-Yi
+AU  - Maire, Michael
+AU  - Belongie, Serge
+AU  - Hays, James
+AU  - Perona, Pietro
+AU  - Ramanan, Deva
+AU  - Dollár, Piotr
+AU  - Zitnick, C. Lawrence
+PY  - 2014
+T2  - Lecture Notes in Computer Science
+SP  - 740
+EP  - 755
+DO  - 10.1007/978-3-319-10602-1_48
+N1  - LIN T Y, MAIRE M, BELONGIE S, et al. Microsoft COCO: common objects in context[C]//Computer Vision — ECCV 2014. Cham: Springer, 2014: 740-755. DOI: 10.1007/978-3-319-10602-1_48.
+ER  - 
+
+TY  - CONF
+ID  - 27
+TI  - Decoupled Weight Decay Regularization
+UR  - https://github.com/loshchil/AdamW-and-SGDW
+AU  - LOSHCHILOV I
+AU  - HUTTER F
+PY  - 2019
+N1  - LOSHCHILOV I, HUTTER F. Decoupled weight decay regularization[C]//International Conference on Learning Representations. 2019.
+ER  - 
+
+TY  - CONF
+ID  - 28
+TI  - TOOD: Task-aligned One-stage Object Detection
+UR  - https://doi.org/10.1109/ICCV48922.2021.00349
+AU  - Feng, Chengjian
+AU  - Zhong, Yujie
+AU  - Gao, Yu
+AU  - Scott, Matthew R.
+AU  - Huang, Weilin
+PY  - 2021
+T2  - 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+SP  - 3490
+EP  - 3499
+DO  - 10.1109/ICCV48922.2021.00349
+N1  - FENG C, ZHONG Y, GAO Y, et al. TOOD: task-aligned one-stage object detection[C]//2021 IEEE/CVF International Conference on Computer Vision. IEEE, 2021: 3490-3499. DOI: 10.1109/ICCV48922.2021.00349.
+ER  - 
